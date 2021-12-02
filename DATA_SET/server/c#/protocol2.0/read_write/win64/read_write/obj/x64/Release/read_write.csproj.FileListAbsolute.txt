@@ -1,0 +1,7 @@
+C:\Users\User\Downloads\DynamixelSDK-readwrite_protocol2.0_win64_edit\DynamixelSDK-readwrite_protocol2.0_win64_edit\c#\protocol2.0\read_write\win64\read_write\bin\x64\Release\read_write.exe.config
+C:\Users\User\Downloads\DynamixelSDK-readwrite_protocol2.0_win64_edit\DynamixelSDK-readwrite_protocol2.0_win64_edit\c#\protocol2.0\read_write\win64\read_write\bin\x64\Release\read_write.exe
+C:\Users\User\Downloads\DynamixelSDK-readwrite_protocol2.0_win64_edit\DynamixelSDK-readwrite_protocol2.0_win64_edit\c#\protocol2.0\read_write\win64\read_write\bin\x64\Release\read_write.pdb
+C:\Users\User\Downloads\DynamixelSDK-readwrite_protocol2.0_win64_edit\DynamixelSDK-readwrite_protocol2.0_win64_edit\c#\protocol2.0\read_write\win64\read_write\obj\x64\Release\read_write.csprojAssemblyReference.cache
+C:\Users\User\Downloads\DynamixelSDK-readwrite_protocol2.0_win64_edit\DynamixelSDK-readwrite_protocol2.0_win64_edit\c#\protocol2.0\read_write\win64\read_write\obj\x64\Release\read_write.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\DynamixelSDK-readwrite_protocol2.0_win64_edit\DynamixelSDK-readwrite_protocol2.0_win64_edit\c#\protocol2.0\read_write\win64\read_write\obj\x64\Release\read_write.exe
+C:\Users\User\Downloads\DynamixelSDK-readwrite_protocol2.0_win64_edit\DynamixelSDK-readwrite_protocol2.0_win64_edit\c#\protocol2.0\read_write\win64\read_write\obj\x64\Release\read_write.pdb
